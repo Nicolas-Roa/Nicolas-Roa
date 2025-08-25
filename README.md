@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 José Nicolás Roa Méndez</h1>
 <p align="center">
-Bogotá D.C. | 📱 3202672728 | 📧 josenicolasroamendez@gmail.com | <a href="https://linkedin.com/in/devnroa">LinkedIn</a>
+Bogotá D.C. | 📧 josenicolasroamendez@gmail.com | <a href="https://linkedin.com/in/devnroa">LinkedIn</a>
 </p>
 
 ---
